@@ -22,5 +22,9 @@ JavaScript   42 mins         █████████████████
 
 <!--END_SECTION:waka-->
 
-# Discord Presence
-[![Discord Presence](https://lanyard.cnrad.dev/api/418707912836382721)](https:/kevinthomas.codes/)
+<h2 align="center">Discord Profile</h2><br>
+  <p align="center">
+    <a href="https://discord.gg/y4BcXCGqAr">
+        <img title="NocSent discord" alt="NocSent's discord" src="https://discord.c99.nl/widget/theme-3/idealist#4810.png"/>
+    </a>
+</p>
