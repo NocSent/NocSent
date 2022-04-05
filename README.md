@@ -18,6 +18,9 @@ I'm a 16 yo student & A sucked web developer experienced in Python, Java(script)
 
 ```text
 JavaScript   42 mins         █████████████████████████   100.00 %
+Java         15 hours        █████████████████████████   100.00 %
+cpp          20 hours(maybe) █████████████████████████   100.00 %
+python       200+ hours      █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
