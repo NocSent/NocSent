@@ -3,10 +3,10 @@
 I'm a 16 yo student & A sucked web developer experienced in Python, Java(script), cpp. 
 ### A few of my short-term goals:
 - [ ] Learn a new language like go
-- [ ] Create some a11y-related software
+- [ ] Create some impossible applications
 - [ ] Revive some of my dead projects☠️
 - [ ] Balance time between school, friends & work
-- [ ] Make fat stacks with [minecraft.global](https://minecraft.global/) 💵💸
+- [ ] make more friends
 - [ ] Find more music 🎵🎶
 
 # Languages & Frameworks
