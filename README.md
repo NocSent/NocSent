@@ -25,6 +25,6 @@ JavaScript   42 mins         █████████████████
 <h2 align="center">Discord Profile</h2><br>
   <p align="center">
     <a href="https://discord.gg/y4BcXCGqAr">
-        <img title="NocSent discord" alt="NocSent's discord" src="https://discord.c99.nl/widget/theme-3/idealist#4810.png"/>
+        <img title="NocSent discord" alt="NocSent's discord" src="https://discord.c99.nl/widget/theme-3/743754732950126604.png"/>
     </a>
 </p>
