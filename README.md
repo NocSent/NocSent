@@ -1,6 +1,6 @@
 # Hello 👋 I'm NocSent //
 
-I'm a 16 yo student & A sucked web developer experienced in Python, Java(script), cpp. 
+I'm a 16 yo student & A sucked web developer experienced in kotlin, Java. 
 ### A few of my short-term goals:
 - [ ] Learn a new language like go
 - [ ] Create some impossible applications
